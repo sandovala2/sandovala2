@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Armando Sanodval
+- 👋 Hi, I’m Armando Sandoval
 - 👀 I’m interested in improving processes and automating tasks.
 - 🌱 I’m currently learning Python, Powershell, and Git/Github
 - 💞️ I’m looking to collaborate on improving processes and automating tasks
